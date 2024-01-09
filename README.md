@@ -68,9 +68,14 @@ In particular I decided to test the most delicate part: detection of the marker,
 After connecting to the robot through ssh protocol and running the code on a linux distribution with shared ros master I modified the code to have the different behaviors separate. In the end the robot performed just the first switch from goto_waypoint to searchfor_marker in the correct way.
 
 
+switch behavior:
 
 https://github.com/FabrizioLeopardi/assignmentEXP/assets/104570450/3a2e857e-e783-43ca-b5b2-0a22886d5da2
 
+
+go to point:
+
+https://github.com/FabrizioLeopardi/assignmentEXP/assets/104570450/36fa90aa-766f-4a92-adf5-57c85e07064b
 
 
 ### flow of the code
