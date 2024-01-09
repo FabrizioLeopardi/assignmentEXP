@@ -67,7 +67,11 @@ In the lab I tried the behavior of my code on the real rosbot, in particular I d
 In particular I decided to test the most delicate part: detection of the marker, and in particular of the first marker.
 After connecting to the robot through ssh protocol and running the code on a linux distribution with shared ros master I modified the code to have the different behaviors separate. In the end the robot performed just the first switch from goto_waypoint to searchfor_marker in the correct way.
 
-<video width="1920" height="1080" controls> <source src="video/video1.mp4" type="video/mp4"></video>
+
+
+https://github.com/FabrizioLeopardi/assignmentEXP/assets/104570450/3a2e857e-e783-43ca-b5b2-0a22886d5da2
+
+
 
 ### flow of the code
 
